@@ -1,0 +1,15 @@
+# For Eclipse
+/.buildpath
+/.project
+/.settings
+
+# For Wordpress
+*.log
+log.php
+wp-config.php
+wp-content/upgrade/
+wp-content/uploads/
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz

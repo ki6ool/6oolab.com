@@ -10,6 +10,8 @@ if ( is_category() ) {
 	$category = get_the_category($post->ID);
 	$breadcrumbs[] = ['active' => false, 'text' => reset($category)->name, 'href' => "/archives/category/".reset($category)->slug];
 	$breadcrumbs[] = ['active' => true, 'text' => $post->post_title, 'href' => get_permalink($post)];
+} elseif ( is_page() ) {
+	$breadcrumbs[] = ['active' => true, 'text' => $post->post_title, 'href' => get_permalink($post)];
 } elseif ( is_search() ) {
 	$breadcrumbs[] = ['active' => true, 'text' => $wp_query->query['s'], 'href' => "/?s={$wp_query->query['s']}"];
 }

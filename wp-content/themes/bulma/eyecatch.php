@@ -1,4 +1,7 @@
-<?php if ( is_home() ) return;?>
+<?php
+if ( is_home() ) return;
+global $post, $wp_query;
+?>
 <div class="hero-body">
 	<div class="container">
 	<?php if ( is_single() || is_page() ):?>

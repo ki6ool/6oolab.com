@@ -12,6 +12,9 @@ if ( have_posts() ) {
 				<div class="content">
 					<p><?php the_content();?><br>
 				</div>
+
+<?php if ( $post->post_name == 'zundokokiyoshi' && class_exists('ZundokoKiyoshi')) new ZundokoKiyoshi();?>
+
 			</div>
 		</div>
 	</div>

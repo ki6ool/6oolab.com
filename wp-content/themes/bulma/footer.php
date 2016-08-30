@@ -4,19 +4,19 @@
 			<a class="nav-item" href="http://6oolab.com/feed" title="RSS">
 				<span class="icon"><i class="fa fa-rss"></i></span>
 			</a>
-			<a class="nav-item" href="https://github.com/ki6ool" title="GitHub">
+			<a class="nav-item" href="https://github.com/ki6ool" title="GitHub" target="_blank">
 				<span class="icon"><i class="fa fa-github"></i></span>
 			</a>
-			<a class="nav-item" href="https://twitter.com/ki6ool" title="Twitter">
+			<a class="nav-item" href="https://twitter.com/ki6ool" title="Twitter" target="_blank">
 				<span class="icon"><i class="fa fa-twitter"></i></span>
 			</a>
-			<a class="nav-item" href="https://profiles.wordpress.org/ki6ool/" title="Wodpress.org">
+			<a class="nav-item" href="https://profiles.wordpress.org/ki6ool/" title="Wodpress.org" target="_blank">
 				<span class="icon"><i class="fa fa-wordpress"></i></span>
 			</a>
-			<a class="nav-item" href="http://qiita.com/ki6ool" title="Qiita">
+			<a class="nav-item" href="http://qiita.com/ki6ool" title="Qiita" target="_blank">
 				<span class="icon"><img src="https://qiita.com/icons/favicons/public/apple-touch-icon.png"></span>
 			</a>
-			<a class="nav-item" href="https://teratail.com/users/ki6ool" title="teratail">
+			<a class="nav-item" href="https://teratail.com/users/ki6ool" title="teratail" target="_blank">
 				<span class="icon"><img src="https://teratail.com/img/ios/apple-touch-icon.png"></span>
 			</a>
 		</div>

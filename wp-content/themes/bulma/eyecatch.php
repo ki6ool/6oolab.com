@@ -13,6 +13,9 @@ global $post, $wp_query;
 	<?php elseif ( is_search() ):?>
 		<h1 class="title">Search</h1>
 		<h2 class="subtitle"><?php echo $wp_query->query['s'];?></h2>
+	<?php elseif ( is_404() ):?>
+		<h1 class="title">Error</h1>
+		<h2 class="subtitle">Page Not Found</h2>
 	<?php endif;?>
 	</div>
 </div><!-- /.hero-body -->

@@ -14,7 +14,7 @@
 				<span class="icon"><i class="fa fa-wordpress"></i></span>
 			</a>
 			<a class="nav-item" href="http://qiita.com/ki6ool" title="Qiita" target="_blank">
-				<span class="icon"><img src="https://qiita.com/icons/favicons/public/apple-touch-icon.png"></span>
+				<span class="icon"><img src="http://cdn.qiita.com/assets/favicons/public/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png"></span>
 			</a>
 			<a class="nav-item" href="https://teratail.com/users/ki6ool" title="teratail" target="_blank">
 				<span class="icon"><img src="https://teratail.com/img/ios/apple-touch-icon.png"></span>

@@ -1,5 +1,17 @@
 <?php get_header();?>
 
+<section class="section">
+	<div class="container">
+		<div class="columns">
+			<div class="column is-12">
+				<div class="content">
+					最近は<a href="http://qiita.com/ki6ool" title="Qiita" target="_blank">Qiita</a>に書くことが多いです。
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
 <?php
 if ( have_posts() ) {
 	while ( have_posts() ) {

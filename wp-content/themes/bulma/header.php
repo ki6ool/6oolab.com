@@ -3,7 +3,7 @@
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://6oolab.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://6oolab.com/feed" />
 <link rel="icon" type="image/png" href="/favicon.png">
 <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600' rel='stylesheet' type='text/css' id='gwf'>
 <script>!function(){var e=document.getElementById("gwf");e.rel="stylesheet"}();</script>

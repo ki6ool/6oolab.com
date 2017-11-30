@@ -1,7 +1,7 @@
 <footer class="footer">
 	<div class="container">
 		<div class="nav-center">
-			<a class="nav-item" href="http://6oolab.com/feed" title="RSS">
+			<a class="nav-item" href="https://6oolab.com/feed" title="RSS">
 				<span class="icon"><i class="fa fa-rss"></i></span>
 			</a>
 			<a class="nav-item" href="https://github.com/ki6ool" title="GitHub" target="_blank">

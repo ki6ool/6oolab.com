@@ -9,6 +9,14 @@
 <script>!function(){var e=document.getElementById("gwf");e.rel="stylesheet"}();</script>
 <?php wp_head();?>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WWMVT6VF29"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-WWMVT6VF29');
+</script>
 </head>
 <body>
 
